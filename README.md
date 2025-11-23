@@ -12,17 +12,6 @@ This project implements a probabilistic information retrieval system using the B
 - **Probabilistic Ranking**: Uses BIM (Binary Independence Model) to calculate relevance scores
 - **Result Output**: Generates ranked results and outputs them to a file
 
-## Project Structure
-
-```
-.
-├── README.md                      # Project documentation
-├── Shreejal KC_W4_Week 4 Assignment.ipynb  # Jupyter notebook with implementation
-├── Trump Speeches/                # Folder containing document collection
-│   └── *.txt                      # Individual text documents
-├── queries1.txt                   # File containing search queries
-└── results.txt                    # Output file with ranked results
-```
 
 ## How It Works
 
